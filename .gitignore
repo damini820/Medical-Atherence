@@ -16,5 +16,9 @@ frontend/dist/
 frontend/build/
 backend/dist/
 
+backend/.env
+backend/testtwilio.js
+backend/uploads/
+
 # Logs
 *.log
